@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm João Paulo</h1>
+<h1 align="center">Olá 👋, Sou João Paulo</h1>
 <h3 align="center">A passionate Full-Stack developer from Brazil</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaumsud" alt="joaumsud" /></a> </p>
